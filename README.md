@@ -1,4 +1,4 @@
-# Simulation_of_a_priority_traffic_management_network
+# Simulation of a priority traffic management network
 ## Description 
 Simulation of a Switched Ethernet network for automotive applications in an OMNeT++ environment, management of traffic with different priorities, configuration of the network in order to avoid packet loss, and performance evaluation in terms of end-to-end delay, Frame Loss Ratio (FLR) and deadline miss ratio. The performance evaluation was carried out using two different scheduling algorithms: Deadline Monotonic and Earliest Deadline First (EDF).
 
